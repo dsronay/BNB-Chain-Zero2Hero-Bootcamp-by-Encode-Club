@@ -1,5 +1,5 @@
 # BNB-Chain-Zero2Hero-Bootcamp-by-Encode-Club
-This is the output from the encode BNB Chain "Zero2Hero" bootcamp
+Repository documenting  my learning through Bootcamp and solutions to homeworks and exercises.
 
 ## Lessons
 
