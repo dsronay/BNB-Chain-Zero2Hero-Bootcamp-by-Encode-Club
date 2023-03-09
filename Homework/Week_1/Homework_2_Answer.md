@@ -5,6 +5,9 @@ token link: https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
 ans: 1,332,194 holders at 8:39pm 03/08/2023
 
 
+
+
+
 2. Approximately, how many unique addresses are there ?
 address link: https://bscscan.com/chart/address
 
