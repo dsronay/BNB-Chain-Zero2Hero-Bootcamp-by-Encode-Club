@@ -1,43 +1,15 @@
 # BNB-Chain-Zero2Hero-Bootcamp-by-Encode-Club
 Repository documenting  my learning through Bootcamp and solutions to homeworks and exercises.
 
-## Lessons
-
-### Week 1 - Introduction to blockchain and Solidity
-- [x] Course Introduction / Blockchain / Cryptography
-- [x] BNB Chain
-- [x] Remix
-- [ ] Solidity language
-
-### Week 2 - Solidity and dev tools
-- [ ] EVM details
-- [ ] Solidity language 2
-- [ ] Solidity security
-- [ ] Further IDEs
-
-### Week 3 - UI and DeFi intro
-- [ ] Ethers
-- [ ] Introduction to DeFi
-- [ ] Gas optimisation
-
-### Week 4 - DApps and DeFi
-- [ ] Gas optimisation 2
-- [ ] Coding for DeFi
-- [ ] Decentralised Storage
-- [ ] Scalability
-
-### Week 5 - Further technology
-- [ ] Zero Knowledge Proofs
-- [ ] MEV
-- [ ] Interacting with DeFi projects
-- [ ] Documentation
-
-### Week 6 - Further technology
-- [ ] Advanced security
-- [ ] Testing
-- [ ] Audits
-- [ ] Review
-
+# BNB Chain Bootcamp information:
+* Website: 
+-- https://www.encode.club/
+* Notion Encode bootcamp: 
+-- https://encodeclub.notion.site/BNB-Chain-Zero2Hero-Bootcamp-powered-by-Encode-ee13926036f342ef8e0baa738505da66
+* Youtube: 
+-- https://www.youtube.com/@encodeclub
+* Discord Channel EncodeClub:
+-- https://discord.gg/encodeclub
 
 
 ## Acknowledgements
