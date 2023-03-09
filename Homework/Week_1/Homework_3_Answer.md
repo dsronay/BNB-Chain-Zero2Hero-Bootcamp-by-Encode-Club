@@ -1,4 +1,4 @@
-(https://github.com/dsronay/BNB-Chain-Zero2Hero-Bootcamp-by-Encode-Club/blob/main/SC%20Score.png)
+![Score](https://github.com/dsronay/BNB-Chain-Zero2Hero-Bootcamp-by-Encode-Club/blob/main/SC%20Score.png)
 
 </br>
 
