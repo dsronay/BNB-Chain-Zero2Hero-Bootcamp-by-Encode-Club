@@ -1,4 +1,3 @@
-#Week 1
 ### Week 1 - Introduction to blockchain and Solidity
 - [x] Course Introduction / Blockchain / Cryptography : https://youtu.be/2lLae6sOzfM
 - [x] BNB Chain : https://youtu.be/UZCENV1pWj8
