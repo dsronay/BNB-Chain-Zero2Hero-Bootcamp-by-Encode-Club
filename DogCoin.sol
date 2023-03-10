@@ -15,6 +15,13 @@ contract DogCoin {
     event SupplyChanged(uint256 newSupply);
     event Transfer(address indexed from, address indexed to, uint256 value);
 
+    struct Payment {
+        address recipient;
+        uint256 amount;
+    }
+
+    mapping(address => Payment[]) public payments;
+
     constructor() {
         owner = msg.sender;
         balances[owner] = totalSupply;
@@ -29,14 +36,16 @@ contract DogCoin {
         emit SupplyChanged(totalSupply);
     }
 
-    function transfer(address recipient, uint256 amount) public {
-        require(amount > 0, "Amount must be greater than 0.");
-        require(balances[msg.sender] >= amount, "Insufficient balance.");
-
+    function transfer(address to, uint256 amount) public {
+        require(amount <= balances[msg.sender], "Insufficient balance");
         balances[msg.sender] -= amount;
-        balances[recipient] += amount;
-
-        emit Transfer(msg.sender, recipient, amount);
+        balances[to] += amount;
+        emit Transfer(msg.sender, to, amount);
+        payments[msg.sender].push(Payment(to, amount));
+    }
+    
+    function getPayments(address user) public view returns (Payment[] memory) {
+        return payments[user];
     }
 
 }
