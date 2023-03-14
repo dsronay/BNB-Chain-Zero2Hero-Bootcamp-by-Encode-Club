@@ -2,11 +2,11 @@
 - [x] Course Introduction / Blockchain / Cryptography : https://youtu.be/2lLae6sOzfM
 - [x] BNB Chain : https://youtu.be/UZCENV1pWj8
 - [x] Remix : https://youtu.be/kru6pYlyu1k
-- [ ] Solidity language
+- [x] Solidity language : https://youtu.be/Wtcu7NoSyIE
 
 ### Week 2 - Solidity and dev tools
-- [ ] EVM details
-- [ ] Solidity language 2
+- [x] EVM details : https://youtu.be/vvANxmSoGzE
+- [ ] Solidity language 2 : 
 - [ ] Solidity security
 - [ ] Further IDEs
 
